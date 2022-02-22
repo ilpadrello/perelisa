@@ -1,23 +1,42 @@
-html { width: 100%;}    
-body{
-    font-family:Arial, Helvetica, sans-serif;
-    width: 800px;
-    margin: 0 auto;
+html {
+  width: 100%;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 800px;
+  margin: 0 auto;
 }
 
-#full{
-    background-color: beige;
+#full {
 }
 
-header h1{
-    font-size: x-large;
-    width: 100%;
-    text-align: center;
-    width:100%;
-    background-color: aqua;
+header h1 {
+  font-size: x-large;
+  width: 100%;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 25px;
 }
 
-header #luogo{
-    font-size: 10px;
+header {
+  margin-top: 10px;
+}
 
+header #luogo {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+header #data {
+  margin-bottom: 15px;
+}
+
+header #menu a {
+  margin-right: 10px;
+}
+
+footer #firma {
+  width: 100%;
+  text-align: right;
 }
