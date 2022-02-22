@@ -1,0 +1,23 @@
+html { width: 100%;}    
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: 0 auto;
+}
+
+#full{
+    background-color: beige;
+}
+
+header h1{
+    font-size: x-large;
+    width: 100%;
+    text-align: center;
+    width:100%;
+    background-color: aqua;
+}
+
+header #luogo{
+    font-size: 10px;
+
+}
